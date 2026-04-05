@@ -136,4 +136,4 @@ Sistema-Restaurantes
 Proyecto desarrollado como parte del curso de **Taller de IN6AM de la jornada Matiutina**.
 
 **Equipo de desarrollo:**  
-Los Rezagados
+BitCoiners
